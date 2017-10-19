@@ -1,0 +1,68 @@
+
+/*primero establecer el color y tamaño de la cancha*/
+.green{
+    background: #8BB27B;
+    width:900px;
+    height: 450px;
+    
+    
+}
+/*ahora, establecer las líneas límites de la cancha*/
+
+.playground {
+    background: #8BB27B;
+	border: 4px solid white;
+	width:870px;
+    height: 415px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+/*ahora hago arco 1*/
+.arc1{
+    background: #8BB27B;
+	border: 4px solid white;
+	width:100px;
+    height: 200px;
+    position: absolute;
+    top: 120px;
+    left: 20px;
+}
+.arc2{
+    background: #8BB27B;
+	border: 4px solid white;
+	width:100px;
+    height: 200px;
+    position: absolute;
+    top: 120px;
+    left: 790px;
+}
+/*haciendo la parte central: el círculo*/
+.circle{
+    background: #8BB27B;
+    border: 4px solid white;
+    border-radius: 100%;
+	width:150px;
+    height: 150px;
+    position: absolute;
+    top: 150px;
+    left: 400px; 
+}
+/*agregando las pelotas a la cancha*/
+.ballon1{
+    position: absolute;
+    top: 117px;
+    left: 8%
+
+}
+.ballon2{
+    position: absolute;
+    top: 15%;
+    left:35%;
+}
+.ballon3{
+    position: absolute;
+    top: 50%;
+    left:57%;
+}
+
