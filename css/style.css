@@ -11,8 +11,8 @@
 
 .playground {
     background: #8BB27B;
-	border: 4px solid white;
-	width:870px;
+    border: 4px solid white;
+    width:870px;
     height: 415px;
     position: absolute;
     top: 20px;
@@ -21,8 +21,8 @@
 /*ahora hago arco 1*/
 .arc1{
     background: #8BB27B;
-	border: 4px solid white;
-	width:100px;
+    border: 4px solid white;
+    width:100px;
     height: 200px;
     position: absolute;
     top: 120px;
@@ -30,8 +30,8 @@
 }
 .arc2{
     background: #8BB27B;
-	border: 4px solid white;
-	width:100px;
+    border: 4px solid white;
+    width:100px;
     height: 200px;
     position: absolute;
     top: 120px;
@@ -42,7 +42,7 @@
     background: #8BB27B;
     border: 4px solid white;
     border-radius: 100%;
-	width:150px;
+    width:150px;
     height: 150px;
     position: absolute;
     top: 150px;
